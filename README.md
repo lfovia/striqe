@@ -13,10 +13,10 @@
 
 5)	Consider the following as inputs and output:
 	Inputs:
-	--> (Il, Ir)-- Ref Stereo Pair 
-	--> (il, ir)-- Test Stereo Pair
-	--> (Dl, Dr)-- Left and Right Disparity Map Of Ref Stereo Pair
-	-->    a    -- Alpha Power generally in the range [0.8, 0.85]
+	
+		--> (Il, Ir) -- Ref Stereo Pair 
+		--> (il, ir) -- Test Stereo Pair
+		--> (Dl, Dr)-- Left and Right Disparity Map Of Ref Stereo Pair
+		-->    a    -- Alpha Power generally in the range [0.8, 0.85]
      
-     Outputs:
-	-->  score   -- Objective Quality Score Of Stereo Pair.
+     Outputs:	-->  score   -- Objective Quality Score Of Stereo Pair.
